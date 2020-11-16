@@ -1,0 +1,57 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.head{
+    background-color: red;
+    height: 200px;
+    margin-bottom: 10px;
+    
+}
+.sidebar{
+    background-color: green;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    
+}
+.u:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.content{
+    background-color: hotpink;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 69.45%;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.footer{
+    background-color: khaki;
+    height: 200px;
+}
+.sidebar-2{
+    background-color: green;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+}
+h1{
+    padding-top: 55px;
+    font-size: 60px;
+}
+ul{
+    padding-top: 160px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 27px;
+}
+
